@@ -1,0 +1,140 @@
+{
+  "dapil": [
+    {
+      "provinsi": "Bali",
+      "kabupaten": [
+        {
+          "nama": "Denpasar",
+          "kecamatan": [
+            {
+              "nama": "Denpasar Barat",
+              "kelurahan": [
+                {"nama": "Dauh Puri Kauh"},
+                {"nama": "Pemecutan Kaja"},
+                {"nama": "Padangsambian"}
+              ]
+            }
+          
+          ]
+        },
+        {
+          "nama": "Badung",
+          "kecamatan": [
+            {
+              "nama": "Kuta",
+              "kelurahan": [
+                {"nama": "Legian"},
+                {"nama": "Seminyak"},
+                {"nama": "Kerobokan Kelod"}
+              ]
+            }
+          ]
+        },
+        {
+          "nama": "Buleleng",
+          "kecamatan": [
+            {
+              "nama": "Singaraja",
+              "kelurahan": [
+                {"nama": "Banyuasri"},
+                {"nama": "Kampung Baru"},
+                {"nama": "Kampung Singaraja"}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Timur",
+      "kabupaten": [
+        {
+          "nama": "Surabaya",
+          "kecamatan": [
+            {
+              "nama": "Sukolilo",
+              "kelurahan": [
+                {"nama": "Keputih"},
+                {"nama": "Gebang Putih"},
+                {"nama": "Medokan Semampir"}
+              ]
+            }
+     
+          ]
+        },
+        {
+          "nama": "Malang",
+          "kecamatan": [
+            {
+              "nama": "Sukolilo",
+              "kelurahan": [
+                {"nama": "Keputih"},
+                {"nama": "Gebang Putih"},
+                {"nama": "Medokan Semampir"}
+              ]
+            }
+     
+          ]
+        },
+        {
+          "nama": "Pasuruan",
+          "kecamatan": [
+            {
+              "nama": "Purworejo",
+              "kelurahan": [
+                {"nama": "Kraton"},
+                {"nama": "Bugul Kidul"},
+                {"nama": "Panggung rejo"}
+              ]
+            }
+     
+          ]
+        },
+        {
+          "nama": "Surabaya",
+          "kecamatan": [
+            {
+              "nama": "Sukolilo",
+              "kelurahan": [
+                {"nama": "Keputih"},
+                {"nama": "Gebang Putih"},
+                {"nama": "Medokan Semampir"}
+              ]
+            }
+     
+          ]
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Barat",
+      "kabupaten": [
+        {
+          "nama": "Bandung",
+          "kecamatan": [
+            {
+              "nama": "Coblong",
+              "kelurahan": [
+                {"nama": "Dago"},
+                {"nama": "Sadang Serang"},
+                {"nama": "Sekeloa"}
+              ]
+            }
+ 
+          ]
+        }
+      ]
+    }
+  ]
+  ,
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
