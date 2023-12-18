@@ -1,0 +1,123 @@
+{
+  "jsonapi": { "version": "2.0" },
+  "data": [
+    {
+      "type": "calegs",
+      "id": "1",
+      "attributes": {
+        "nama": "Wayan Sukaya",
+        "email": "wayan@gmail.com",
+        "alamat": "Jl. Denpasar",
+        "link_insta": "http://instagram.com",
+        "link_fb": "http://fb.com",
+        "link_twitter": "http://twitter.com",
+        "src": "https://ik.imagekit.io/m1akscp5q/11.png?updatedAt=1702111096135",
+        "provinsi": "Bali",
+        "kab_kota": "Denpasar",
+        "visi_misi": "Visi,\r\nMisi\r\n",
+        "program": "Program1-sdkasldkldssad,\r\nProgram2-jksdhfkjshfdsdf,\r\nProgram3-sdfsdfsd,\r\nProgram4,\r\nProgram5\r\n",
+        "paket_type": 1,
+        "featuring": 1,
+        "relawan": 0,
+        "skin": "standard-yellow",
+        "likes": 120,
+        "dislikes": 10,
+        "createdAt": "2023-12-08T00:24:11.000000Z",
+        "updatedAt": "2023-12-08T00:24:11.000000Z"
+      },
+      "relationships": {
+        "partai": {
+          "links": {
+            "related": "http://localhost/backend/public/api/v2/calegs/1/partai",
+            "self": "http://localhost/backend/public/api/v2/calegs/1/relationships/partai"
+          }
+        },
+        "dapil_id": {
+          "links": {
+            "related": "http://localhost/backend/public/api/v2/calegs/1/dapil-id",
+            "self": "http://localhost/backend/public/api/v2/calegs/1/relationships/dapil-id"
+          }
+        }
+      },
+      "links": { "self": "http://localhost/backend/public/api/v2/calegs/1" }
+    },
+    {
+      "type": "calegs",
+      "id": "2",
+      "attributes": {
+        "nama": "Nengah Doni",
+        "email": "nengah@gmail.com",
+        "alamat": "Jl. Denpasar",
+        "link_insta": "http://instagram.com",
+        "link_fb": "http://fb.com",
+        "link_twitter": "http://twitter.com",
+        "provinsi": "Jakarta",
+        "kab_kota": "Denpasar",
+        "visi_misi": "Memajukan Daerah",
+        "program": "UMKM",
+        "paket_type": 2,
+        "featuring": 1,
+        "relawan": 1,
+        "skin": "standard-yellow",
+        "likes": 120,
+        "dislikes": 10,
+        "createdAt": "2023-12-08T00:24:11.000000Z",
+        "updatedAt": "2023-12-08T00:24:11.000000Z"
+      },
+      "relationships": {
+        "partai": {
+          "links": {
+            "related": "http://localhost/backend/public/api/v2/calegs/2/partai",
+            "self": "http://localhost/backend/public/api/v2/calegs/2/relationships/partai"
+          }
+        },
+        "dapil_id": {
+          "links": {
+            "related": "http://localhost/backend/public/api/v2/calegs/2/dapil-id",
+            "self": "http://localhost/backend/public/api/v2/calegs/2/relationships/dapil-id"
+          }
+        }
+      },
+      "links": { "self": "http://localhost/backend/public/api/v2/calegs/2" }
+    },
+    {
+      "type": "calegs",
+      "id": "3",
+      "attributes": {
+        "nama": "Toni",
+        "email": "toni@gmai.com",
+        "alamat": "asdas",
+        "link_insta": "asd",
+        "link_fb": "sad",
+        "link_twitter": "sds",
+        "provinsi": "Bali",
+        "kab_kota": "Gianyar",
+        "visi_misi": "asdas\r\nasd\r\nads\r\nasd",
+        "program": "asda\r\nads\r\nasd",
+        "paket_type": 3,
+        "featuring": 1,
+        "relawan": 1,
+        "skin": "2",
+        "likes": 100,
+        "dislikes": 5,
+        "createdAt": "2023-12-09T23:30:27.000000Z",
+        "updatedAt": "2023-12-09T23:30:27.000000Z"
+      },
+      "relationships": {
+        "partai": {
+          "links": {
+            "related": "http://localhost/backend/public/api/v2/calegs/3/partai",
+            "self": "http://localhost/backend/public/api/v2/calegs/3/relationships/partai"
+          }
+        },
+        "dapil_id": {
+          "links": {
+            "related": "http://localhost/backend/public/api/v2/calegs/3/dapil-id",
+            "self": "http://localhost/backend/public/api/v2/calegs/3/relationships/dapil-id"
+          }
+        }
+      },
+      "links": { "self": "http://localhost/backend/public/api/v2/calegs/3" }
+    }
+  ]
+}
